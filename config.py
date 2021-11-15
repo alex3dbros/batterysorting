@@ -1,0 +1,5 @@
+dbuser="batsorter"
+dbpass="Ertyxx1560"
+dbname="batsorting"
+dbhost="192.168.1.222"
+dbport="1433"

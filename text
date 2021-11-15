@@ -1,0 +1,18 @@
+gpio21 = dir1
+gpio20 = step1
+
+gpio16 = dir2
+gpio12 = step2
+
+gpio25 = dir3
+gpio24 = step3
+
+gpio26 = dir4
+gpio19 = step4
+
+
+
+gpio24 = estop
+
+
+microstop = 17, 27, 22
